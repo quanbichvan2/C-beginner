@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IT18326_3_QuanBichVan_Lab3/1.0.0": {
+        "runtime": {
+          "IT18326_3_QuanBichVan_Lab3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT18326_3_QuanBichVan_Lab3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

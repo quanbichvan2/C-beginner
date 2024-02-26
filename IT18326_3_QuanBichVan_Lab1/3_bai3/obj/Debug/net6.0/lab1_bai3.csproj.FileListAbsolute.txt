@@ -1,0 +1,15 @@
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\lab1_bai3.csproj.AssemblyReference.cache
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\lab1_bai3.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\lab1_bai3.AssemblyInfoInputs.cache
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\lab1_bai3.AssemblyInfo.cs
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\lab1_bai3.csproj.CoreCompileInputs.cache
+E:\FPT\c#\lab1_bai3\bin\Debug\net6.0\lab1_bai3.exe
+E:\FPT\c#\lab1_bai3\bin\Debug\net6.0\lab1_bai3.deps.json
+E:\FPT\c#\lab1_bai3\bin\Debug\net6.0\lab1_bai3.runtimeconfig.json
+E:\FPT\c#\lab1_bai3\bin\Debug\net6.0\lab1_bai3.dll
+E:\FPT\c#\lab1_bai3\bin\Debug\net6.0\lab1_bai3.pdb
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\lab1_bai3.dll
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\refint\lab1_bai3.dll
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\lab1_bai3.pdb
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\lab1_bai3.genruntimeconfig.cache
+E:\FPT\c#\lab1_bai3\obj\Debug\net6.0\ref\lab1_bai3.dll

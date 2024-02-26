@@ -1,0 +1,15 @@
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\bin\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.exe
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\bin\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.deps.json
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\bin\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.runtimeconfig.json
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\bin\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.dll
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\bin\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.pdb
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.csproj.AssemblyReference.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.AssemblyInfoInputs.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.AssemblyInfo.cs
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.csproj.CoreCompileInputs.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.dll
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\refint\IT18326_3_QuanBichVan_Lab4_3.dll
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.pdb
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\IT18326_3_QuanBichVan_Lab4_3.genruntimeconfig.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab4\bai1\IT18326_3_QuanBichVan_Lab4_3\obj\Debug\net6.0\ref\IT18326_3_QuanBichVan_Lab4_3.dll

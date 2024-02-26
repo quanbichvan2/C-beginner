@@ -1,0 +1,10 @@
+E:\yun\c#\training\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.AssemblyReference.cache
+E:\yun\c#\training\ASM2\ASM2\obj\Debug\net6.0\ASM2.GeneratedMSBuildEditorConfig.editorconfig
+E:\yun\c#\training\ASM2\ASM2\obj\Debug\net6.0\ASM2.AssemblyInfoInputs.cache
+E:\yun\c#\training\ASM2\ASM2\obj\Debug\net6.0\ASM2.AssemblyInfo.cs
+E:\yun\c#\training\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.CoreCompileInputs.cache
+E:\FPT\c#\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.AssemblyReference.cache
+E:\FPT\c#\ASM2\ASM2\obj\Debug\net6.0\ASM2.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\c#\ASM2\ASM2\obj\Debug\net6.0\ASM2.AssemblyInfoInputs.cache
+E:\FPT\c#\ASM2\ASM2\obj\Debug\net6.0\ASM2.AssemblyInfo.cs
+E:\FPT\c#\ASM2\ASM2\obj\Debug\net6.0\ASM2.csproj.CoreCompileInputs.cache

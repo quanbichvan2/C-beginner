@@ -1,0 +1,60 @@
+E:\FPT\c#\Projects\lab6\bin\Debug\net6.0\lab6.exe
+E:\FPT\c#\Projects\lab6\bin\Debug\net6.0\lab6.deps.json
+E:\FPT\c#\Projects\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+E:\FPT\c#\Projects\lab6\bin\Debug\net6.0\lab6.dll
+E:\FPT\c#\Projects\lab6\bin\Debug\net6.0\lab6.pdb
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\lab6.dll
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\refint\lab6.dll
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\lab6.pdb
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+E:\FPT\c#\Projects\lab6\obj\Debug\net6.0\ref\lab6.dll
+C:\Users\Edward\Documents\Zalo Received Files\lab6\bin\Debug\net6.0\lab6.exe
+C:\Users\Edward\Documents\Zalo Received Files\lab6\bin\Debug\net6.0\lab6.deps.json
+C:\Users\Edward\Documents\Zalo Received Files\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+C:\Users\Edward\Documents\Zalo Received Files\lab6\bin\Debug\net6.0\lab6.dll
+C:\Users\Edward\Documents\Zalo Received Files\lab6\bin\Debug\net6.0\lab6.pdb
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\lab6.dll
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\refint\lab6.dll
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\lab6.pdb
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+C:\Users\Edward\Documents\Zalo Received Files\lab6\obj\Debug\net6.0\ref\lab6.dll
+F:\DOWNLOADS\lab6\bin\Debug\net6.0\lab6.exe
+F:\DOWNLOADS\lab6\bin\Debug\net6.0\lab6.deps.json
+F:\DOWNLOADS\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+F:\DOWNLOADS\lab6\bin\Debug\net6.0\lab6.dll
+F:\DOWNLOADS\lab6\bin\Debug\net6.0\lab6.pdb
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\lab6.dll
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\refint\lab6.dll
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\lab6.pdb
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+F:\DOWNLOADS\lab6\obj\Debug\net6.0\ref\lab6.dll
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\bin\Debug\net6.0\lab6.exe
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\bin\Debug\net6.0\lab6.deps.json
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\bin\Debug\net6.0\lab6.runtimeconfig.json
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\bin\Debug\net6.0\lab6.dll
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\bin\Debug\net6.0\lab6.pdb
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\lab6.dll
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\refint\lab6.dll
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\lab6.pdb
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab6\lab6_Bai1\obj\Debug\net6.0\ref\lab6.dll

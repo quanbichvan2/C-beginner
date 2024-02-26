@@ -1,0 +1,8 @@
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab2\LAB02\bin\Debug\LAB02.exe.config
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab2\LAB02\bin\Debug\LAB02.exe
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab2\LAB02\bin\Debug\LAB02.pdb
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab2\LAB02\obj\Debug\LAB02.csproj.AssemblyReference.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab2\LAB02\obj\Debug\LAB02.csproj.SuggestedBindingRedirects.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab2\LAB02\obj\Debug\LAB02.csproj.CoreCompileInputs.cache
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab2\LAB02\obj\Debug\LAB02.exe
+E:\FPT\c#\Projects\IT18326_3_QuanBichVan_Lab2\LAB02\obj\Debug\LAB02.pdb

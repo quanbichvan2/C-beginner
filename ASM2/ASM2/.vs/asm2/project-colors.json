@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d32e99f-1058-4c74-99db-c04379f5dab0": {
+      "ProjectGuid": "2d32e99f-1058-4c74-99db-c04379f5dab0",
+      "DisplayName": "asm2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
